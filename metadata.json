@@ -1,0 +1,15 @@
+{
+  "name": "swarnaravi-roles",
+  "version": "0.1.0",
+  "author": "Raveendra Swarna",
+  "summary": "This is a role module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/swarnaravi/puppet-roles.git",
+  "project_page": "https://github.com/swarnaravi/puppet-roles.git",
+  "issues_url": "https://github.com/swarnaravi/puppet-roles.git/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
